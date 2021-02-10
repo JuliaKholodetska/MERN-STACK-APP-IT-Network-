@@ -3,13 +3,8 @@
 
 Since I am a beginner, I wrote this application with "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). 
 
-Live Demo: 
-
-Features:
-•	User authentication (login + registration)
-•	User input validation 
-•	Domain logic -> programmer network
-•	DB schema with 3 entities 
+Check Live Demo:
+Then drink coffee ☕️ & have a nice day:)
 
 Tech stack: 
 [React]and [React Router]for frontend
@@ -48,6 +43,8 @@ npm install
 ```
 npm run dev
 ```
+
+
 
 ### Build for production
 
