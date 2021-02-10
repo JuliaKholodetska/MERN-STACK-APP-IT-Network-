@@ -16,15 +16,7 @@ Tech stack:
 
 # Quick Start
 
-### U need to add your_mondoDB_link and githubtoken in default.json file in config folder 
 
-```
-{
-  "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
-  "jwtSecret": "secret",
-  "githubToken": "<yoursecrectaccesstoken>"
-}
-```
 
 ### Install dependencies
 
