@@ -36,12 +36,3 @@ npm install
 ```
 npm run dev
 ```
-
-
-
-### Build for production
-
-```bash
-cd client
-npm run build
-```
