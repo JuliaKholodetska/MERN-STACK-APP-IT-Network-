@@ -3,7 +3,7 @@ IT network for developers ->
 
 Since I am a beginner, I wrote this application with "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). 
 
-Check Live Demo:
+Check Live Demo: https://sheltered-caverns-19723.herokuapp.com/
 
 Then drink coffee ☕️ & have a nice day:)
 
