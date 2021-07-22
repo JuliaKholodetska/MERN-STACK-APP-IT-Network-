@@ -1,7 +1,5 @@
 IT network for developers ->
- This app includes authentication, profiles and forum posts.
-
-Since I am a beginner, I wrote this application with "MERN Stack Front To Back" course . 
+ This app includes authentication, profiles and forum posts. 
 
 Check Live Demo: https://sheltered-caverns-19723.herokuapp.com/
 
